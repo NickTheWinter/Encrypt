@@ -77,8 +77,8 @@ namespace Encript
         static void Main(string[] args)
         {
             Random random = new Random();
-            int p = nSimple(29);
-            int q = nSimple(31);
+            int p = nSimple(random.Next(25,50));
+            int q = nSimple(random.Next(25, 50));
             long n = p * q;
             int e = 257;
             long d = closeKey(p, q, e);
