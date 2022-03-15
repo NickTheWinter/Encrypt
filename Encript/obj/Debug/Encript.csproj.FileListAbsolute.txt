@@ -1,0 +1,8 @@
+C:\Users\Nikolai\source\repos\Encript\Encript\bin\Debug\Encript.exe.config
+C:\Users\Nikolai\source\repos\Encript\Encript\bin\Debug\Encript.exe
+C:\Users\Nikolai\source\repos\Encript\Encript\bin\Debug\Encript.pdb
+C:\Users\Nikolai\source\repos\Encript\Encript\obj\Debug\Encript.csproj.AssemblyReference.cache
+C:\Users\Nikolai\source\repos\Encript\Encript\obj\Debug\Encript.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\source\repos\Encript\Encript\obj\Debug\Encript.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\Encript\Encript\obj\Debug\Encript.exe
+C:\Users\Nikolai\source\repos\Encript\Encript\obj\Debug\Encript.pdb
