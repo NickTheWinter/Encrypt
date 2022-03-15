@@ -95,9 +95,9 @@ namespace Encript
             List<char> decoding = decode(codePhraze, d, n);
 
             Console.Write("Зашифрованный: ");
-            for (int i = 0; i < codePhraze.Count; i++)
+            foreach (int item in codePhraze)
             {
-                Console.Write($"{codePhraze[i]} ");
+                Console.Write($"{item} ");
             }
             Console.WriteLine();
             Console.Write("Расшифрованный: ");
